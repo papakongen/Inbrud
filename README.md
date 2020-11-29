@@ -3,3 +3,6 @@
 Video https://streamable.com/mmuh28
 
 Discord:papakongen#9999
+
+
+Det er bare darg and drop det eneste du skal er at tilføje det her 	["lockpick"] = {"lockpick", "lockpick.", nil , 0.10}, i din items.lua
